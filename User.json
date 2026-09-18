@@ -10,5 +10,11 @@
         "key": "SINAFT-383849",
         "expirydate": "02-02-2054",
         "Allowoffline": true
+    },
+    {
+        "device_id": "59021da5ccc3cbec",
+        "key": "MAXO",
+        "expirydate": "14-06-2029",
+        "Allowoffline": true
     }
 ]
