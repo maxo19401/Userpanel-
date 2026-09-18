@@ -4,5 +4,11 @@
         "key": "Mahan",
         "expirydate": "28-05-2029",
         "Allowoffline": true
+    },
+    {
+        "device_id": "9169d521aa38e018",
+        "key": "SINAFT-383849",
+        "expirydate": "02-02-2054",
+        "Allowoffline": true
     }
 ]
